@@ -72,20 +72,21 @@ Try the application directly from your browser.
 
 ## 📸 Product Preview
 
-> Add your best application screenshots here.
 
-```text
-screenshots/
-├── hero.png
-├── generator.png
-└── result.png
-```
+**Isko hata do** aur iske place par ye daal do:
 
-Example:
 
-```markdown
-![ThumbForge AI Dashboard](./screenshots/generator.png)
-```
+## 📸 Product Preview
+
+<p align="center">
+  <img src="./screenshots/Screenshot 2026-10-06 204456.png" width="48%" alt="ThumbForge AI Preview 1"/>
+  <img src="./screenshots/Screenshot 2026-10-06 204513.png" width="48%" alt="ThumbForge AI Preview 2"/>
+</p>
+
+<p align="center">
+  <img src="./screenshots/Screenshot 2026-10-06 204608.png" width="48%" alt="ThumbForge AI Preview 3"/>
+  <img src="./screenshots/Screenshot 2026-10-06 204730.png" width="48%" alt="ThumbForge AI Preview 4"/>
+</p>
 
 ---
 
